@@ -80,7 +80,7 @@ product.
 ## 🌐 Live Demo
 
 [**Try LIFEFORGE
-→**](https://lifeforge-zndx1x3m2-chirag-s-team1.vercel.app/)
+→**](https://lifeforge-nu.vercel.app/)
 
 ## 🚧 Future Plans
 
