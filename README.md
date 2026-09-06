@@ -52,7 +52,7 @@ This project became a practical experiment in understanding how far effective pr
 
 ## 🌐 Live Demo
 
-[**Try LIFEFORGE →**]( https://lifeforge-zndx1x3m2-chirag-s-team1.vercel.app/ )
+[**Try LIFEFORGE →**]( https://lifeforge-nu.vercel.app/)
 
 ## 🚧 Future Plans
 
