@@ -19,7 +19,7 @@
 
 ### Journal
 
-![LIFEFORGE Journal](Assets/Journal.PNG)
+![LIFEFORGE Journal](Assets/Jounal.PNG)
 
 ## 🧠 Why I Built It
 
